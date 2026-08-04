@@ -1,0 +1,7 @@
+category_name,total_rentals,total_revenue,avg_duration_days
+Suv,1348,16017342.5,3.78
+Sedan,1709,12496387.5,3.79
+Luxury,452,11374057.5,3.96
+Hatchback,1244,6330800.0,3.87
+Van,318,3823237.5,3.76
+Electric,287,3316412.5,3.7

@@ -1,0 +1,6 @@
+payment_method,total_payments,failed_payments,revenue_collected,failed_pct
+Upi,1723,88,15342940.0,5.11
+Credit Card,1630,73,14596122.5,4.48
+Debit Card,1142,56,10012195.0,4.9
+Net Banking,556,19,5203595.0,3.42
+Cash,307,13,2913730.0,4.23

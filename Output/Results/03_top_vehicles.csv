@@ -1,0 +1,11 @@
+vehicle_id,make,model,category_name,times_rented,revenue_generated
+14,Mahindra,XUV700,Suv,47,672045.0
+114,Mercedes-Benz,E-Class,Luxury,46,1228110.0
+89,Hyundai,Verna,Sedan,43,310275.0
+17,Tata,Tiago,Hatchback,42,156687.5
+42,BMW,5 Series,Luxury,41,907095.0
+24,Maruti Suzuki,Swift,Hatchback,41,248747.5
+9,BMW,5 Series,Luxury,40,797497.5
+37,Hyundai,Creta,Suv,40,649800.0
+171,Skoda,Slavia,Sedan,40,303600.0
+106,Skoda,Slavia,Sedan,40,444720.0

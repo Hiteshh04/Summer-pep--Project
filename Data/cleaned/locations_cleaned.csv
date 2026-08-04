@@ -1,0 +1,11 @@
+location_id,location_name,city,state,region
+1,Jaipur Central Hub,Jaipur,Rajasthan,North
+2,Udaipur City Branch,Udaipur,Rajasthan,North
+3,Delhi Airport Branch,New Delhi,Delhi,North
+4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+5,Pune Station Branch,Pune,Maharashtra,West
+6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+7,Chennai Central Branch,Chennai,Tamil Nadu,South
+8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+10,Lucknow Branch,Lucknow,Uttar Pradesh,North

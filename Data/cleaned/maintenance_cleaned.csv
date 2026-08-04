@@ -1,0 +1,451 @@
+maintenance_id,vehicle_id,maintenance_date,maintenance_type,cost,downtime_days,make,model,category_id,category_name
+1,67,2024-11-22,Routine Service,2574.27,2,BMW,5 Series,4,Luxury
+2,102,2024-08-13,Battery/Electric,7515.29,2,Audi,A6,4,Luxury
+3,177,2025-07-04,Tire Change,6314.13,1,Hyundai,Kona Electric,6,Electric
+4,49,2025-08-17,Tire Change,2185.09,1,Hyundai,Verna,2,Sedan
+5,52,2025-12-08,Tire Change,5963.37,1,Hyundai,Verna,2,Sedan
+6,158,2024-06-23,Repair,6613.55,2,Hyundai,Verna,2,Sedan
+7,175,2025-06-29,Battery/Electric,11135.14,2,Hyundai,Verna,2,Sedan
+8,151,2025-08-18,Routine Service,3635.85,2,Mahindra,XUV700,3,SUV
+9,111,2024-07-24,Tire Change,2065.08,1,Maruti Suzuki,Swift,1,Hatchback
+10,157,2024-07-16,Tire Change,7810.58,1,Mahindra,XUV700,3,SUV
+11,144,2024-07-01,Tire Change,4023.69,1,Mercedes-Benz,E-Class,4,Luxury
+12,153,2024-03-08,Repair,13260.8,5,Hyundai,Verna,2,Sedan
+13,6,2025-07-24,Routine Service,1548.27,1,Tata,Tiago,1,Hatchback
+14,16,2024-10-29,Battery/Electric,18313.75,3,Tata,Tiago,1,Hatchback
+15,158,2025-05-14,Routine Service,3793.2,1,Hyundai,Verna,2,Sedan
+16,70,2026-04-23,Battery/Electric,15815.29,2,Maruti Suzuki,Ertiga,5,Van
+17,179,2025-08-30,Accident Repair,18417.73,10,Hyundai,Verna,2,Sedan
+18,169,2024-11-27,Routine Service,1995.56,2,Maruti Suzuki,Swift,1,Hatchback
+19,42,2024-05-30,Routine Service,2516.67,1,BMW,5 Series,4,Luxury
+20,134,2026-05-09,Battery/Electric,12961.84,1,Maruti Suzuki,Ertiga,5,Van
+21,63,2026-05-17,Tire Change,3657.76,1,Skoda,Slavia,2,Sedan
+22,51,2024-08-03,Routine Service,2696.36,1,Hyundai,i10,1,Hatchback
+23,129,2026-02-10,Routine Service,2144.97,1,Honda,City,2,Sedan
+24,130,2025-03-10,Routine Service,2090.08,1,Skoda,Slavia,2,Sedan
+25,8,2026-03-15,Repair,6201.32,4,Tata,Tiago,1,Hatchback
+26,120,2025-04-15,Routine Service,2045.16,2,Toyota,Fortuner,3,SUV
+27,166,2024-09-29,Accident Repair,23870.08,9,Honda,City,2,Sedan
+28,56,2026-01-18,Repair,7563.29,5,Kia,Seltos,3,SUV
+29,101,2025-01-21,Routine Service,2273.14,2,Tata,Tiago,1,Hatchback
+30,129,2024-12-31,Accident Repair,54667.23,5,Honda,City,2,Sedan
+31,58,2026-03-29,Battery/Electric,15903.53,2,Honda,City,2,Sedan
+32,87,2024-04-16,Routine Service,3062.51,2,Skoda,Slavia,2,Sedan
+33,6,2025-09-14,Routine Service,2061.89,1,Tata,Tiago,1,Hatchback
+34,163,2024-01-10,Battery/Electric,15908.45,2,Hyundai,Verna,2,Sedan
+35,82,2025-05-31,Accident Repair,38750.33,10,Hyundai,Creta,3,SUV
+36,149,2025-05-17,Tire Change,3910.54,1,Hyundai,Creta,3,SUV
+37,143,2024-05-19,Accident Repair,53551.55,10,Honda,City,2,Sedan
+38,31,2025-12-04,Routine Service,1554.18,2,Skoda,Slavia,2,Sedan
+39,32,2025-08-21,Routine Service,1831.6,2,Tata,Nexon EV,6,Electric
+40,60,2024-04-16,Accident Repair,59095.19,10,Hyundai,Verna,2,Sedan
+41,86,2024-07-02,Routine Service,3016.77,1,Mahindra,XUV700,3,SUV
+42,52,2026-06-23,Repair,13049.17,3,Hyundai,Verna,2,Sedan
+43,26,2024-08-09,Routine Service,3667.96,1,Hyundai,Verna,2,Sedan
+44,65,2025-05-02,Repair,10092.8,4,Tata,Tiago,1,Hatchback
+45,55,2024-10-07,Routine Service,1961.79,2,Kia,Seltos,3,SUV
+46,103,2025-04-12,Accident Repair,58001.63,10,Tata,Tiago,1,Hatchback
+47,5,2024-08-17,Repair,13880.59,4,Toyota,Fortuner,3,SUV
+48,115,2025-11-15,Routine Service,3753.27,1,Maruti Suzuki,Swift,1,Hatchback
+49,133,2025-01-01,Routine Service,1878.85,1,Mahindra,XUV700,3,SUV
+50,21,2025-05-23,Accident Repair,19330.01,6,Hyundai,i10,1,Hatchback
+51,87,2026-05-16,Routine Service,3134.3,2,Skoda,Slavia,2,Sedan
+52,28,2024-01-02,Routine Service,3173.12,1,Hyundai,i10,1,Hatchback
+53,94,2024-08-15,Routine Service,3137.17,2,Honda,City,2,Sedan
+54,22,2024-05-24,Repair,14526.58,2,Maruti Suzuki,Ertiga,5,Van
+55,139,2025-05-18,Tire Change,2640.94,1,Honda,City,2,Sedan
+56,109,2025-10-09,Tire Change,4315.69,1,Mahindra,XUV700,3,SUV
+57,39,2026-06-03,Tire Change,6007.27,1,Skoda,Slavia,2,Sedan
+58,110,2024-12-22,Tire Change,5229.7,1,Hyundai,Creta,3,SUV
+59,91,2024-04-14,Routine Service,3441.42,2,Toyota,Fortuner,3,SUV
+60,49,2025-09-03,Routine Service,3141.61,2,Hyundai,Verna,2,Sedan
+61,129,2024-07-23,Tire Change,4165.21,1,Honda,City,2,Sedan
+62,138,2025-12-12,Accident Repair,54904.25,5,Tata,Tiago,1,Hatchback
+63,146,2026-04-25,Routine Service,3117.52,2,Mahindra,XUV700,3,SUV
+64,28,2025-12-24,Repair,5327.79,2,Hyundai,i10,1,Hatchback
+65,173,2024-07-08,Routine Service,1799.84,1,Audi,A6,4,Luxury
+66,3,2024-04-21,Routine Service,2446.14,1,Hyundai,Verna,2,Sedan
+67,60,2025-08-04,Battery/Electric,14011.41,3,Hyundai,Verna,2,Sedan
+68,122,2026-05-05,Tire Change,3056.02,1,Maruti Suzuki,Swift,1,Hatchback
+69,81,2024-02-26,Accident Repair,43338.2,9,Kia,Seltos,3,SUV
+70,172,2026-02-23,Repair,13044.32,3,Skoda,Slavia,2,Sedan
+71,126,2025-05-18,Repair,6433.37,3,Maruti Suzuki,Swift,1,Hatchback
+72,51,2024-09-02,Routine Service,2040.25,2,Hyundai,i10,1,Hatchback
+73,120,2024-06-26,Routine Service,2550.14,2,Toyota,Fortuner,3,SUV
+74,151,2025-04-03,Repair,7930.84,4,Mahindra,XUV700,3,SUV
+75,100,2025-09-06,Routine Service,2786.37,2,Tata,Tiago,1,Hatchback
+76,118,2024-03-29,Routine Service,2862.65,2,Skoda,Slavia,2,Sedan
+77,51,2025-01-13,Routine Service,2257.37,2,Hyundai,i10,1,Hatchback
+78,6,2024-11-21,Routine Service,2327.3,2,Tata,Tiago,1,Hatchback
+79,39,2026-03-17,Routine Service,1754.88,2,Skoda,Slavia,2,Sedan
+80,154,2024-03-28,Accident Repair,45419.25,5,Maruti Suzuki,Swift,1,Hatchback
+81,137,2026-06-09,Routine Service,2727.49,1,Mahindra,XUV700,3,SUV
+82,167,2025-10-24,Routine Service,2830.54,1,Honda,City,2,Sedan
+83,18,2026-05-15,Routine Service,3901.22,2,Skoda,Slavia,2,Sedan
+84,130,2024-05-14,Routine Service,1977.73,1,Skoda,Slavia,2,Sedan
+85,115,2024-09-23,Repair,10198.58,4,Maruti Suzuki,Swift,1,Hatchback
+86,4,2024-03-17,Routine Service,3458.15,2,Hyundai,i10,1,Hatchback
+87,27,2025-04-13,Routine Service,2239.11,2,Hyundai,Kona Electric,6,Electric
+88,114,2024-07-25,Tire Change,4790.59,1,Mercedes-Benz,E-Class,4,Luxury
+89,175,2024-05-15,Battery/Electric,18586.2,1,Hyundai,Verna,2,Sedan
+90,2,2024-08-22,Repair,10154.27,3,Honda,City,2,Sedan
+91,29,2025-10-12,Repair,5588.75,4,Tata,Tiago,1,Hatchback
+92,24,2024-07-22,Routine Service,3186.69,2,Maruti Suzuki,Swift,1,Hatchback
+93,100,2026-06-28,Routine Service,3752.96,1,Tata,Tiago,1,Hatchback
+94,18,2024-04-04,Accident Repair,29748.39,6,Skoda,Slavia,2,Sedan
+95,31,2024-06-12,Routine Service,2865.76,1,Skoda,Slavia,2,Sedan
+96,120,2024-02-14,Repair,14510.64,4,Toyota,Fortuner,3,SUV
+97,50,2024-05-24,Tire Change,3100.99,1,Mahindra,XUV700,3,SUV
+98,8,2026-05-08,Repair,11284.16,5,Tata,Tiago,1,Hatchback
+99,42,2024-09-06,Battery/Electric,19123.03,2,BMW,5 Series,4,Luxury
+100,17,2024-11-20,Tire Change,4864.11,1,Tata,Tiago,1,Hatchback
+101,172,2024-01-07,Tire Change,3914.87,1,Skoda,Slavia,2,Sedan
+102,125,2024-04-09,Accident Repair,15390.15,7,BMW,5 Series,4,Luxury
+103,151,2025-08-10,Routine Service,3506.15,1,Mahindra,XUV700,3,SUV
+104,120,2025-03-29,Routine Service,2218.11,2,Toyota,Fortuner,3,SUV
+105,79,2025-04-16,Routine Service,1891.39,2,Hyundai,Verna,2,Sedan
+106,59,2024-06-20,Repair,12663.43,4,Hyundai,i10,1,Hatchback
+107,91,2025-12-03,Repair,5662.04,2,Toyota,Fortuner,3,SUV
+108,142,2025-07-07,Tire Change,7555.35,1,Honda,City,2,Sedan
+109,25,2025-12-28,Routine Service,1646.48,2,Tata,Tiago,1,Hatchback
+110,152,2024-06-08,Tire Change,2098.14,1,Toyota,Innova Crysta,5,Van
+111,156,2025-09-25,Routine Service,3015.17,2,Toyota,Fortuner,3,SUV
+112,102,2025-08-05,Routine Service,3232.47,2,Audi,A6,4,Luxury
+113,14,2026-02-14,Tire Change,5808.36,1,Mahindra,XUV700,3,SUV
+114,86,2024-08-15,Routine Service,2260.92,1,Mahindra,XUV700,3,SUV
+115,164,2024-11-03,Tire Change,5218.51,1,Hyundai,Verna,2,Sedan
+116,119,2024-09-23,Tire Change,4522.64,1,Tata,Tiago,1,Hatchback
+117,110,2025-11-12,Routine Service,2333.74,1,Hyundai,Creta,3,SUV
+118,96,2025-02-07,Routine Service,3077.29,2,Toyota,Innova Crysta,5,Van
+119,160,2025-03-25,Battery/Electric,17967.21,3,Maruti Suzuki,Swift,1,Hatchback
+120,11,2025-07-11,Repair,5927.27,2,Mahindra,XUV700,3,SUV
+121,171,2024-09-12,Routine Service,1552.6,2,Skoda,Slavia,2,Sedan
+122,132,2025-10-17,Routine Service,1815.31,1,Hyundai,Verna,2,Sedan
+123,60,2025-05-01,Tire Change,5784.61,1,Hyundai,Verna,2,Sedan
+124,63,2024-06-25,Repair,13267.12,4,Skoda,Slavia,2,Sedan
+125,93,2024-06-17,Tire Change,5167.64,1,Mahindra,XUV700,3,SUV
+126,123,2025-03-20,Repair,10808.25,4,Hyundai,i10,1,Hatchback
+127,179,2025-10-01,Repair,8428.23,3,Hyundai,Verna,2,Sedan
+128,135,2025-02-08,Tire Change,5634.26,1,Hyundai,i10,1,Hatchback
+129,122,2025-03-22,Routine Service,2923.73,2,Maruti Suzuki,Swift,1,Hatchback
+130,86,2026-05-25,Routine Service,1665.11,2,Mahindra,XUV700,3,SUV
+131,153,2024-12-19,Routine Service,1756.97,2,Hyundai,Verna,2,Sedan
+132,171,2025-06-07,Accident Repair,26833.34,12,Skoda,Slavia,2,Sedan
+133,155,2024-04-16,Repair,14394.38,5,Hyundai,Verna,2,Sedan
+134,122,2024-04-13,Tire Change,2751.26,1,Maruti Suzuki,Swift,1,Hatchback
+135,97,2024-04-20,Battery/Electric,9103.4,3,Hyundai,Verna,2,Sedan
+136,149,2025-01-07,Tire Change,2384.73,1,Hyundai,Creta,3,SUV
+137,50,2024-01-09,Battery/Electric,16341.88,2,Mahindra,XUV700,3,SUV
+138,22,2024-11-26,Accident Repair,36312.61,13,Maruti Suzuki,Ertiga,5,Van
+139,155,2026-01-25,Routine Service,3275.92,2,Hyundai,Verna,2,Sedan
+140,49,2026-04-20,Routine Service,3540.89,1,Hyundai,Verna,2,Sedan
+141,136,2024-06-20,Battery/Electric,17508.41,2,Audi,A6,4,Luxury
+142,128,2026-03-27,Routine Service,1922.16,1,Hyundai,Creta,3,SUV
+143,39,2025-03-04,Battery/Electric,14049.44,3,Skoda,Slavia,2,Sedan
+144,156,2024-02-11,Repair,5795.58,3,Toyota,Fortuner,3,SUV
+145,103,2024-11-12,Routine Service,3086.88,1,Tata,Tiago,1,Hatchback
+146,33,2024-01-16,Routine Service,3897.02,2,Skoda,Slavia,2,Sedan
+147,88,2025-08-04,Routine Service,2413.28,1,Hyundai,Creta,3,SUV
+148,88,2025-04-09,Tire Change,7490.49,1,Hyundai,Creta,3,SUV
+149,145,2025-06-10,Routine Service,3137.94,1,Toyota,Fortuner,3,SUV
+150,147,2025-12-09,Routine Service,3909.01,2,Maruti Suzuki,Ertiga,5,Van
+151,30,2025-01-09,Routine Service,1573.81,2,Toyota,Fortuner,3,SUV
+152,49,2025-10-18,Routine Service,2335.26,1,Hyundai,Verna,2,Sedan
+153,133,2024-08-03,Repair,4394.25,4,Mahindra,XUV700,3,SUV
+154,178,2024-09-12,Routine Service,1843.02,2,Honda,City,2,Sedan
+155,151,2024-11-27,Repair,7022.72,3,Mahindra,XUV700,3,SUV
+156,133,2024-05-23,Tire Change,5474.82,1,Mahindra,XUV700,3,SUV
+157,61,2025-09-14,Accident Repair,44570.82,13,Toyota,Innova Crysta,5,Van
+158,152,2024-12-09,Routine Service,3542.54,2,Toyota,Innova Crysta,5,Van
+159,95,2024-10-28,Routine Service,3047.64,1,Mahindra,XUV700,3,SUV
+160,166,2026-01-15,Routine Service,2913.36,2,Honda,City,2,Sedan
+161,37,2025-03-14,Repair,5749.44,2,Hyundai,Creta,3,SUV
+162,142,2026-02-19,Routine Service,3593.73,1,Honda,City,2,Sedan
+163,129,2025-01-20,Accident Repair,36844.47,13,Honda,City,2,Sedan
+164,129,2024-10-21,Tire Change,5838.53,1,Honda,City,2,Sedan
+165,118,2024-08-16,Tire Change,4202.13,1,Skoda,Slavia,2,Sedan
+166,86,2024-07-01,Routine Service,3539.31,1,Mahindra,XUV700,3,SUV
+167,1,2024-02-23,Routine Service,3149.21,1,Hyundai,Creta,3,SUV
+168,72,2025-10-01,Routine Service,3601.35,1,Skoda,Slavia,2,Sedan
+169,173,2024-02-12,Tire Change,4213.78,1,Audi,A6,4,Luxury
+170,162,2024-04-13,Repair,5842.46,3,Hyundai,i10,1,Hatchback
+171,127,2026-03-10,Battery/Electric,5030.77,3,Honda,City,2,Sedan
+172,70,2026-03-10,Routine Service,2732.34,1,Maruti Suzuki,Ertiga,5,Van
+173,45,2024-10-12,Battery/Electric,8253.35,1,Toyota,Innova Crysta,5,Van
+174,33,2025-05-29,Battery/Electric,19665.13,2,Skoda,Slavia,2,Sedan
+175,5,2024-06-15,Routine Service,3538.71,2,Toyota,Fortuner,3,SUV
+176,116,2026-04-10,Routine Service,1530.91,1,Toyota,Fortuner,3,SUV
+177,166,2024-06-14,Routine Service,2679.29,1,Honda,City,2,Sedan
+178,116,2024-02-02,Routine Service,1669.54,1,Toyota,Fortuner,3,SUV
+179,151,2025-11-28,Repair,11876.07,3,Mahindra,XUV700,3,SUV
+180,108,2025-10-28,Accident Repair,35285.14,9,Hyundai,Kona Electric,6,Electric
+181,167,2025-11-16,Routine Service,1508.72,2,Honda,City,2,Sedan
+182,23,2024-06-28,Repair,7479.21,4,Skoda,Slavia,2,Sedan
+183,52,2024-03-18,Tire Change,6668.2,1,Hyundai,Verna,2,Sedan
+184,127,2024-11-08,Routine Service,2313.61,1,Honda,City,2,Sedan
+185,71,2025-05-28,Routine Service,2297.26,1,Toyota,Fortuner,3,SUV
+186,68,2025-04-06,Accident Repair,55340.92,9,Hyundai,Verna,2,Sedan
+187,88,2024-11-03,Repair,12361.38,2,Hyundai,Creta,3,SUV
+188,123,2025-10-24,Accident Repair,49865.89,15,Hyundai,i10,1,Hatchback
+189,54,2026-02-15,Routine Service,1589.72,1,Hyundai,Kona Electric,6,Electric
+190,10,2024-06-16,Tire Change,6316.68,1,Mahindra,XUV700,3,SUV
+191,169,2025-07-23,Routine Service,3579.88,1,Maruti Suzuki,Swift,1,Hatchback
+192,68,2025-06-16,Routine Service,2839.66,2,Hyundai,Verna,2,Sedan
+193,150,2024-09-07,Tire Change,6880.14,1,Maruti Suzuki,Ertiga,5,Van
+194,45,2026-01-18,Repair,13331.84,2,Toyota,Innova Crysta,5,Van
+195,107,2024-08-29,Battery/Electric,18762.31,2,Toyota,Fortuner,3,SUV
+196,180,2025-09-13,Repair,10630.05,3,Tata,Nexon EV,6,Electric
+197,27,2026-03-26,Routine Service,2514.71,2,Hyundai,Kona Electric,6,Electric
+198,77,2024-11-23,Routine Service,2935.08,1,Maruti Suzuki,Swift,1,Hatchback
+199,26,2026-02-24,Tire Change,2042.5,1,Hyundai,Verna,2,Sedan
+200,27,2025-05-08,Routine Service,3255.87,2,Hyundai,Kona Electric,6,Electric
+201,110,2025-01-26,Battery/Electric,9806.55,2,Hyundai,Creta,3,SUV
+202,69,2025-04-10,Repair,9875.1,5,Hyundai,Kona Electric,6,Electric
+203,148,2024-12-22,Battery/Electric,13431.44,1,Skoda,Slavia,2,Sedan
+204,79,2025-07-20,Battery/Electric,16250.6,3,Hyundai,Verna,2,Sedan
+205,104,2024-12-26,Battery/Electric,19658.48,3,Hyundai,Creta,3,SUV
+206,128,2026-04-15,Routine Service,3785.76,1,Hyundai,Creta,3,SUV
+207,111,2026-04-17,Repair,9867.92,5,Maruti Suzuki,Swift,1,Hatchback
+208,115,2025-09-05,Routine Service,3853.0,1,Maruti Suzuki,Swift,1,Hatchback
+209,91,2024-01-18,Tire Change,3578.14,1,Toyota,Fortuner,3,SUV
+210,68,2024-05-11,Tire Change,5608.81,1,Hyundai,Verna,2,Sedan
+211,118,2025-12-19,Routine Service,2145.33,1,Skoda,Slavia,2,Sedan
+212,82,2024-01-19,Routine Service,2967.29,2,Hyundai,Creta,3,SUV
+213,8,2025-06-04,Battery/Electric,5463.85,1,Tata,Tiago,1,Hatchback
+214,134,2024-11-25,Routine Service,3732.32,2,Maruti Suzuki,Ertiga,5,Van
+215,139,2024-06-20,Routine Service,3761.1,2,Honda,City,2,Sedan
+216,59,2025-09-15,Routine Service,3425.9,2,Hyundai,i10,1,Hatchback
+217,105,2025-07-02,Routine Service,3509.36,2,Honda,City,2,Sedan
+218,141,2024-07-31,Routine Service,3230.5,2,Tata,Tiago,1,Hatchback
+219,39,2025-11-03,Tire Change,3252.87,1,Skoda,Slavia,2,Sedan
+220,63,2025-11-18,Repair,5427.15,2,Skoda,Slavia,2,Sedan
+221,180,2025-02-24,Tire Change,5020.24,1,Tata,Nexon EV,6,Electric
+222,4,2025-08-30,Repair,13571.08,3,Hyundai,i10,1,Hatchback
+223,143,2025-07-16,Accident Repair,50381.27,6,Honda,City,2,Sedan
+224,107,2024-12-22,Routine Service,2582.12,2,Toyota,Fortuner,3,SUV
+225,165,2025-11-22,Routine Service,3566.39,2,Toyota,Innova Crysta,5,Van
+226,6,2025-08-14,Routine Service,2641.39,1,Tata,Tiago,1,Hatchback
+227,97,2025-05-12,Routine Service,3917.44,2,Hyundai,Verna,2,Sedan
+228,177,2026-03-04,Routine Service,1737.85,1,Hyundai,Kona Electric,6,Electric
+229,55,2025-10-18,Tire Change,6075.85,1,Kia,Seltos,3,SUV
+230,124,2024-08-16,Accident Repair,22785.35,14,BMW,5 Series,4,Luxury
+231,169,2024-04-17,Routine Service,3770.45,2,Maruti Suzuki,Swift,1,Hatchback
+232,105,2025-07-03,Battery/Electric,13946.43,1,Honda,City,2,Sedan
+233,92,2025-08-25,Repair,14807.05,2,Toyota,Fortuner,3,SUV
+234,103,2025-01-12,Tire Change,7801.86,1,Tata,Tiago,1,Hatchback
+235,54,2025-12-01,Routine Service,3064.25,2,Hyundai,Kona Electric,6,Electric
+236,56,2024-09-03,Routine Service,2165.69,2,Kia,Seltos,3,SUV
+237,90,2024-02-08,Repair,6710.48,5,Honda,City,2,Sedan
+238,52,2026-04-29,Tire Change,7322.96,1,Hyundai,Verna,2,Sedan
+239,163,2024-12-10,Accident Repair,58589.93,7,Hyundai,Verna,2,Sedan
+240,106,2024-08-13,Battery/Electric,17667.91,1,Skoda,Slavia,2,Sedan
+241,158,2025-06-01,Tire Change,5844.3,1,Hyundai,Verna,2,Sedan
+242,150,2025-08-06,Battery/Electric,10727.83,2,Maruti Suzuki,Ertiga,5,Van
+243,71,2024-05-14,Routine Service,3100.33,1,Toyota,Fortuner,3,SUV
+244,172,2024-03-05,Routine Service,3610.28,2,Skoda,Slavia,2,Sedan
+245,106,2024-10-10,Battery/Electric,9721.92,1,Skoda,Slavia,2,Sedan
+246,40,2025-01-12,Routine Service,2819.72,1,Mercedes-Benz,E-Class,4,Luxury
+247,68,2024-10-25,Routine Service,3673.28,1,Hyundai,Verna,2,Sedan
+248,7,2025-10-09,Tire Change,7717.44,1,Mahindra,XUV700,3,SUV
+249,160,2026-06-11,Repair,8604.68,2,Maruti Suzuki,Swift,1,Hatchback
+250,53,2024-06-23,Repair,5319.22,4,Hyundai,Kona Electric,6,Electric
+251,78,2026-01-30,Repair,8410.98,4,Hyundai,Kona Electric,6,Electric
+252,112,2025-09-15,Routine Service,3659.78,1,Mahindra,XUV700,3,SUV
+253,173,2025-07-25,Routine Service,3592.92,1,Audi,A6,4,Luxury
+254,175,2025-09-25,Repair,13856.61,4,Hyundai,Verna,2,Sedan
+255,114,2024-09-29,Routine Service,3367.3,2,Mercedes-Benz,E-Class,4,Luxury
+256,37,2025-10-25,Routine Service,3474.03,2,Hyundai,Creta,3,SUV
+257,116,2025-09-15,Routine Service,3076.01,1,Toyota,Fortuner,3,SUV
+258,85,2024-10-06,Routine Service,3598.8,1,Kia,Seltos,3,SUV
+259,9,2025-11-08,Tire Change,3304.41,1,BMW,5 Series,4,Luxury
+260,4,2024-09-14,Routine Service,1869.47,2,Hyundai,i10,1,Hatchback
+261,131,2025-09-17,Battery/Electric,14485.06,3,Hyundai,i10,1,Hatchback
+262,170,2026-04-12,Repair,4460.56,3,Maruti Suzuki,Swift,1,Hatchback
+263,144,2025-07-24,Tire Change,7737.26,1,Mercedes-Benz,E-Class,4,Luxury
+264,41,2025-05-09,Routine Service,1551.58,1,BMW,5 Series,4,Luxury
+265,10,2024-08-11,Repair,5203.18,2,Mahindra,XUV700,3,SUV
+266,140,2026-05-13,Battery/Electric,11982.23,2,Hyundai,Creta,3,SUV
+267,15,2026-03-28,Routine Service,3521.24,2,Honda,City,2,Sedan
+268,124,2024-02-20,Repair,4981.82,4,BMW,5 Series,4,Luxury
+269,52,2024-05-21,Accident Repair,31867.64,14,Hyundai,Verna,2,Sedan
+270,55,2024-07-04,Routine Service,1876.36,1,Kia,Seltos,3,SUV
+271,40,2024-07-07,Tire Change,3751.44,1,Mercedes-Benz,E-Class,4,Luxury
+272,165,2024-03-03,Repair,12111.75,3,Toyota,Innova Crysta,5,Van
+273,158,2024-08-08,Battery/Electric,7624.69,2,Hyundai,Verna,2,Sedan
+274,20,2024-12-30,Routine Service,2874.91,2,Tata,Tiago,1,Hatchback
+275,164,2025-06-10,Routine Service,1709.61,1,Hyundai,Verna,2,Sedan
+276,149,2025-10-30,Accident Repair,30556.23,11,Hyundai,Creta,3,SUV
+277,78,2025-10-25,Tire Change,5331.65,1,Hyundai,Kona Electric,6,Electric
+278,60,2025-10-10,Routine Service,1796.23,2,Hyundai,Verna,2,Sedan
+279,93,2026-06-17,Routine Service,3313.14,2,Mahindra,XUV700,3,SUV
+280,23,2025-07-21,Routine Service,1551.74,1,Skoda,Slavia,2,Sedan
+281,25,2026-05-09,Routine Service,3821.11,2,Tata,Tiago,1,Hatchback
+282,150,2025-06-23,Repair,5729.71,4,Maruti Suzuki,Ertiga,5,Van
+283,143,2025-06-08,Routine Service,2926.3,2,Honda,City,2,Sedan
+284,29,2026-03-14,Routine Service,3010.26,1,Tata,Tiago,1,Hatchback
+285,78,2026-01-10,Repair,14747.21,3,Hyundai,Kona Electric,6,Electric
+286,33,2024-03-21,Tire Change,2627.01,1,Skoda,Slavia,2,Sedan
+287,78,2024-07-09,Routine Service,2785.51,2,Hyundai,Kona Electric,6,Electric
+288,109,2024-01-01,Repair,9330.49,2,Mahindra,XUV700,3,SUV
+289,85,2024-02-12,Battery/Electric,16717.94,2,Kia,Seltos,3,SUV
+290,176,2024-04-28,Routine Service,2696.08,1,Hyundai,i10,1,Hatchback
+291,27,2024-07-29,Tire Change,2802.04,1,Hyundai,Kona Electric,6,Electric
+292,51,2025-03-04,Tire Change,3258.75,1,Hyundai,i10,1,Hatchback
+293,70,2025-12-30,Tire Change,4365.79,1,Maruti Suzuki,Ertiga,5,Van
+294,152,2025-08-04,Tire Change,4844.34,1,Toyota,Innova Crysta,5,Van
+295,164,2024-04-16,Routine Service,3727.48,1,Hyundai,Verna,2,Sedan
+296,4,2024-01-27,Tire Change,5895.04,1,Hyundai,i10,1,Hatchback
+297,1,2026-06-04,Tire Change,6115.07,1,Hyundai,Creta,3,SUV
+298,152,2025-02-19,Routine Service,2771.97,1,Toyota,Innova Crysta,5,Van
+299,18,2025-05-09,Tire Change,4998.01,1,Skoda,Slavia,2,Sedan
+300,1,2024-07-20,Routine Service,1517.66,1,Hyundai,Creta,3,SUV
+301,91,2025-09-15,Routine Service,1881.11,1,Toyota,Fortuner,3,SUV
+302,127,2026-06-13,Routine Service,3954.43,1,Honda,City,2,Sedan
+303,37,2024-11-22,Routine Service,2088.21,1,Hyundai,Creta,3,SUV
+304,154,2026-01-06,Battery/Electric,8439.62,1,Maruti Suzuki,Swift,1,Hatchback
+305,72,2025-07-17,Routine Service,1569.13,1,Skoda,Slavia,2,Sedan
+306,163,2025-09-14,Routine Service,2770.56,2,Hyundai,Verna,2,Sedan
+307,69,2024-07-05,Repair,14649.89,5,Hyundai,Kona Electric,6,Electric
+308,45,2025-05-11,Routine Service,3511.41,2,Toyota,Innova Crysta,5,Van
+309,29,2026-02-14,Routine Service,1793.38,2,Tata,Tiago,1,Hatchback
+310,45,2024-09-04,Tire Change,4204.75,1,Toyota,Innova Crysta,5,Van
+311,102,2025-11-15,Repair,7931.84,2,Audi,A6,4,Luxury
+312,69,2024-11-13,Routine Service,2166.57,1,Hyundai,Kona Electric,6,Electric
+313,166,2025-02-19,Repair,9155.39,2,Honda,City,2,Sedan
+314,38,2025-02-19,Tire Change,2305.65,1,Honda,City,2,Sedan
+315,7,2025-01-14,Routine Service,1555.0,1,Mahindra,XUV700,3,SUV
+316,91,2026-01-05,Routine Service,3954.36,1,Toyota,Fortuner,3,SUV
+317,15,2026-04-18,Tire Change,6707.01,1,Honda,City,2,Sedan
+318,87,2024-09-25,Accident Repair,35414.48,10,Skoda,Slavia,2,Sedan
+319,101,2025-08-20,Routine Service,2912.49,2,Tata,Tiago,1,Hatchback
+320,40,2024-04-28,Repair,10540.13,2,Mercedes-Benz,E-Class,4,Luxury
+321,12,2024-09-25,Routine Service,2055.63,1,Maruti Suzuki,Swift,1,Hatchback
+322,159,2025-01-04,Repair,14999.97,5,Hyundai,Verna,2,Sedan
+323,146,2025-05-14,Routine Service,3995.86,1,Mahindra,XUV700,3,SUV
+324,107,2025-12-09,Repair,10404.8,3,Toyota,Fortuner,3,SUV
+325,100,2024-08-24,Repair,10321.2,3,Tata,Tiago,1,Hatchback
+326,25,2025-06-15,Repair,7906.63,4,Tata,Tiago,1,Hatchback
+327,9,2025-04-07,Accident Repair,36905.87,15,BMW,5 Series,4,Luxury
+328,93,2025-12-28,Routine Service,3145.42,1,Mahindra,XUV700,3,SUV
+329,49,2025-07-27,Tire Change,4764.86,1,Hyundai,Verna,2,Sedan
+330,17,2024-04-30,Battery/Electric,13845.49,2,Tata,Tiago,1,Hatchback
+331,149,2026-04-21,Repair,13662.2,3,Hyundai,Creta,3,SUV
+332,96,2024-05-11,Repair,13443.46,4,Toyota,Innova Crysta,5,Van
+333,8,2024-11-12,Routine Service,1772.17,2,Tata,Tiago,1,Hatchback
+334,143,2026-06-29,Repair,14113.56,2,Honda,City,2,Sedan
+335,139,2026-04-27,Routine Service,2765.26,2,Honda,City,2,Sedan
+336,6,2024-08-18,Accident Repair,26987.28,6,Tata,Tiago,1,Hatchback
+337,171,2024-06-26,Routine Service,2822.89,1,Skoda,Slavia,2,Sedan
+338,102,2024-01-18,Battery/Electric,9631.02,3,Audi,A6,4,Luxury
+339,176,2024-05-19,Tire Change,4903.67,1,Hyundai,i10,1,Hatchback
+340,31,2025-12-31,Repair,10352.97,5,Skoda,Slavia,2,Sedan
+341,15,2025-06-02,Repair,14926.41,4,Honda,City,2,Sedan
+342,58,2024-11-01,Repair,7812.99,5,Honda,City,2,Sedan
+343,134,2025-05-18,Routine Service,2988.12,2,Maruti Suzuki,Ertiga,5,Van
+344,136,2024-11-11,Routine Service,3799.56,2,Audi,A6,4,Luxury
+345,56,2024-11-05,Accident Repair,16626.97,9,Kia,Seltos,3,SUV
+346,148,2024-09-21,Battery/Electric,6024.08,1,Skoda,Slavia,2,Sedan
+347,89,2025-01-29,Routine Service,1927.3,1,Hyundai,Verna,2,Sedan
+348,168,2024-02-25,Repair,4046.71,5,Hyundai,Verna,2,Sedan
+349,61,2026-03-04,Tire Change,6123.0,1,Toyota,Innova Crysta,5,Van
+350,87,2024-07-05,Repair,7913.12,5,Skoda,Slavia,2,Sedan
+351,7,2024-01-25,Routine Service,3611.87,1,Mahindra,XUV700,3,SUV
+352,91,2026-03-14,Tire Change,7735.99,1,Toyota,Fortuner,3,SUV
+353,157,2025-03-28,Accident Repair,35858.84,6,Mahindra,XUV700,3,SUV
+354,4,2025-09-22,Repair,13003.03,2,Hyundai,i10,1,Hatchback
+355,29,2024-11-02,Battery/Electric,6609.84,2,Tata,Tiago,1,Hatchback
+356,8,2025-12-03,Tire Change,5675.83,1,Tata,Tiago,1,Hatchback
+357,85,2024-11-17,Routine Service,3050.66,2,Kia,Seltos,3,SUV
+358,16,2024-04-23,Routine Service,2555.57,2,Tata,Tiago,1,Hatchback
+359,121,2025-09-06,Routine Service,3114.7,1,Honda,City,2,Sedan
+360,144,2026-04-21,Tire Change,5335.33,1,Mercedes-Benz,E-Class,4,Luxury
+361,88,2024-02-22,Routine Service,2037.47,2,Hyundai,Creta,3,SUV
+362,143,2026-06-12,Battery/Electric,12741.92,2,Honda,City,2,Sedan
+363,64,2025-03-17,Routine Service,3845.7,1,Tata,Nexon EV,6,Electric
+364,91,2026-05-05,Battery/Electric,5150.75,3,Toyota,Fortuner,3,SUV
+365,20,2025-01-19,Routine Service,2222.32,2,Tata,Tiago,1,Hatchback
+366,113,2026-03-26,Tire Change,5627.29,1,Honda,City,2,Sedan
+367,180,2024-06-15,Battery/Electric,7198.21,1,Tata,Nexon EV,6,Electric
+368,37,2025-06-21,Tire Change,4284.2,1,Hyundai,Creta,3,SUV
+369,148,2024-03-25,Routine Service,1763.64,2,Skoda,Slavia,2,Sedan
+370,101,2025-06-10,Battery/Electric,10878.08,1,Tata,Tiago,1,Hatchback
+371,149,2025-05-30,Tire Change,3830.82,1,Hyundai,Creta,3,SUV
+372,46,2025-03-25,Routine Service,3818.96,1,Tata,Tiago,1,Hatchback
+373,68,2024-03-17,Tire Change,2987.53,1,Hyundai,Verna,2,Sedan
+374,36,2024-12-29,Repair,7387.17,4,BMW,5 Series,4,Luxury
+375,130,2025-08-07,Tire Change,7529.13,1,Skoda,Slavia,2,Sedan
+376,145,2024-04-17,Routine Service,3152.04,2,Toyota,Fortuner,3,SUV
+377,78,2026-03-17,Routine Service,3375.63,2,Hyundai,Kona Electric,6,Electric
+378,160,2025-07-03,Repair,5313.58,5,Maruti Suzuki,Swift,1,Hatchback
+379,28,2025-12-20,Tire Change,4083.76,1,Hyundai,i10,1,Hatchback
+380,174,2026-02-24,Tire Change,6218.24,1,Maruti Suzuki,Swift,1,Hatchback
+381,155,2025-04-23,Routine Service,3520.67,1,Hyundai,Verna,2,Sedan
+382,125,2025-10-20,Tire Change,5384.48,1,BMW,5 Series,4,Luxury
+383,43,2025-09-03,Repair,14430.36,5,Skoda,Slavia,2,Sedan
+384,54,2024-11-03,Repair,13952.64,5,Hyundai,Kona Electric,6,Electric
+385,97,2025-12-01,Repair,5737.06,2,Hyundai,Verna,2,Sedan
+386,108,2024-05-10,Routine Service,3096.98,1,Hyundai,Kona Electric,6,Electric
+387,170,2024-07-19,Routine Service,1775.58,2,Maruti Suzuki,Swift,1,Hatchback
+388,110,2025-03-02,Repair,14630.71,2,Hyundai,Creta,3,SUV
+389,21,2025-09-06,Routine Service,1981.55,2,Hyundai,i10,1,Hatchback
+390,106,2026-03-18,Tire Change,6507.88,1,Skoda,Slavia,2,Sedan
+391,166,2024-03-08,Accident Repair,42692.88,8,Honda,City,2,Sedan
+392,105,2026-03-04,Tire Change,7743.76,1,Honda,City,2,Sedan
+393,79,2024-10-10,Battery/Electric,12969.05,2,Hyundai,Verna,2,Sedan
+394,10,2024-03-08,Battery/Electric,13570.85,1,Mahindra,XUV700,3,SUV
+395,84,2025-06-02,Routine Service,3873.66,1,Hyundai,Verna,2,Sedan
+396,1,2025-02-27,Repair,14831.64,2,Hyundai,Creta,3,SUV
+397,107,2025-12-27,Repair,7137.39,5,Toyota,Fortuner,3,SUV
+398,146,2024-02-26,Routine Service,3078.44,2,Mahindra,XUV700,3,SUV
+399,1,2025-12-07,Routine Service,1839.9,2,Hyundai,Creta,3,SUV
+400,17,2024-07-30,Routine Service,1653.13,1,Tata,Tiago,1,Hatchback
+401,20,2024-02-28,Routine Service,1570.76,1,Tata,Tiago,1,Hatchback
+402,32,2026-05-17,Routine Service,3515.23,2,Tata,Nexon EV,6,Electric
+403,16,2026-03-15,Routine Service,1821.86,2,Tata,Tiago,1,Hatchback
+404,92,2025-01-15,Routine Service,2293.17,1,Toyota,Fortuner,3,SUV
+405,21,2025-03-09,Repair,10557.83,4,Hyundai,i10,1,Hatchback
+406,36,2025-03-10,Battery/Electric,16823.68,2,BMW,5 Series,4,Luxury
+407,158,2026-03-16,Repair,14850.27,2,Hyundai,Verna,2,Sedan
+408,63,2025-05-22,Repair,8664.38,2,Skoda,Slavia,2,Sedan
+409,61,2024-11-08,Routine Service,2095.96,2,Toyota,Innova Crysta,5,Van
+410,57,2024-01-13,Battery/Electric,7712.86,1,Maruti Suzuki,Swift,1,Hatchback
+411,176,2026-05-08,Accident Repair,21844.77,7,Hyundai,i10,1,Hatchback
+412,146,2026-02-26,Repair,6984.58,4,Mahindra,XUV700,3,SUV
+413,42,2025-10-03,Repair,12760.62,5,BMW,5 Series,4,Luxury
+414,22,2024-11-25,Repair,10238.33,5,Maruti Suzuki,Ertiga,5,Van
+415,24,2024-05-30,Routine Service,2223.21,2,Maruti Suzuki,Swift,1,Hatchback
+416,88,2024-04-19,Accident Repair,52627.61,11,Hyundai,Creta,3,SUV
+417,150,2025-04-27,Repair,8775.45,5,Maruti Suzuki,Ertiga,5,Van
+418,162,2024-06-07,Tire Change,3065.21,1,Hyundai,i10,1,Hatchback
+419,86,2025-10-01,Accident Repair,55202.77,11,Mahindra,XUV700,3,SUV
+420,24,2024-11-17,Repair,5648.8,5,Maruti Suzuki,Swift,1,Hatchback
+421,141,2024-08-22,Tire Change,7076.58,1,Tata,Tiago,1,Hatchback
+422,37,2026-06-28,Routine Service,2450.13,2,Hyundai,Creta,3,SUV
+423,103,2025-08-13,Routine Service,1594.5,1,Tata,Tiago,1,Hatchback
+424,137,2024-01-07,Tire Change,4175.06,1,Mahindra,XUV700,3,SUV
+425,113,2024-02-23,Routine Service,1701.16,2,Honda,City,2,Sedan
+426,101,2025-09-09,Routine Service,2512.19,2,Tata,Tiago,1,Hatchback
+427,46,2026-04-10,Routine Service,1929.37,2,Tata,Tiago,1,Hatchback
+428,63,2024-02-07,Routine Service,3796.24,1,Skoda,Slavia,2,Sedan
+429,84,2026-04-03,Tire Change,3577.54,1,Hyundai,Verna,2,Sedan
+430,23,2024-02-04,Tire Change,4232.31,1,Skoda,Slavia,2,Sedan
+431,120,2024-04-21,Battery/Electric,9196.34,1,Toyota,Fortuner,3,SUV
+432,131,2024-11-04,Repair,8973.31,2,Hyundai,i10,1,Hatchback
+433,125,2025-07-05,Tire Change,4183.99,1,BMW,5 Series,4,Luxury
+434,92,2024-12-17,Routine Service,1847.18,2,Toyota,Fortuner,3,SUV
+435,117,2025-11-13,Routine Service,1718.4,2,Maruti Suzuki,Swift,1,Hatchback
+436,167,2025-08-27,Routine Service,2868.6,2,Honda,City,2,Sedan
+437,9,2025-01-12,Routine Service,2310.27,2,BMW,5 Series,4,Luxury
+438,36,2026-06-17,Repair,10044.64,5,BMW,5 Series,4,Luxury
+439,128,2024-11-29,Routine Service,3430.71,1,Hyundai,Creta,3,SUV
+440,89,2024-09-07,Repair,6096.17,3,Hyundai,Verna,2,Sedan
+441,68,2024-04-05,Repair,14762.26,3,Hyundai,Verna,2,Sedan
+442,128,2025-10-12,Tire Change,6790.61,1,Hyundai,Creta,3,SUV
+443,131,2024-02-04,Repair,14564.68,2,Hyundai,i10,1,Hatchback
+444,55,2025-06-25,Tire Change,5648.71,1,Kia,Seltos,3,SUV
+445,86,2026-06-17,Battery/Electric,19512.23,2,Mahindra,XUV700,3,SUV
+446,19,2024-02-19,Repair,8832.76,5,Skoda,Slavia,2,Sedan
+447,165,2026-01-23,Repair,5669.11,4,Toyota,Innova Crysta,5,Van
+448,178,2024-04-02,Routine Service,1841.93,1,Honda,City,2,Sedan
+449,85,2026-02-27,Routine Service,3425.25,2,Kia,Seltos,3,SUV
+450,97,2026-06-24,Repair,10243.71,3,Hyundai,Verna,2,Sedan

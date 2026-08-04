@@ -1,0 +1,5 @@
+membership_type,customers,total_rentals,total_revenue,rentals_per_customer,avg_spend_per_customer
+Silver,278,1736,17335790.0,6.24,62358.96
+Regular,367,2156,22555900.0,5.87,61460.22
+Gold,176,1035,9621360.0,5.88,54666.82
+Platinum,74,431,3845187.5,5.82,51961.99

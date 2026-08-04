@@ -1,0 +1,11 @@
+vehicle_id,make,model,category_name,maintenance_events,total_downtime_days,total_maintenance_cost
+166,Honda,City,Sedan,5,22,81311.0
+143,Honda,City,Sedan,5,22,133714.6
+129,Honda,City,Sedan,5,21,103660.41
+52,Hyundai,Verna,Sedan,5,20,64871.34
+22,Maruti Suzuki,Ertiga,Van,3,20,61077.52
+87,Skoda,Slavia,Sedan,4,19,49524.41
+123,Hyundai,i10,Hatchback,2,19,60674.14
+124,BMW,5 Series,Luxury,2,18,27767.17
+86,Mahindra,XUV700,SUV,6,18,85197.11
+9,BMW,5 Series,Luxury,3,18,42520.55

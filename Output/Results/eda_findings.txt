@@ -1,0 +1,126 @@
+======================================================================
+EXPLORATORY DATA ANALYSIS — Vehicle Utilization & Rental Analytics
+======================================================================
+
+Rentals dataset shape: (5358, 26)
+Date range covered   : 2024-01-01 to 2026-06-30
+
+--- Rental amount summary statistics ---
+count      5358.00
+mean       9958.61
+std       10150.01
+min        1062.50
+25%        3705.00
+50%        6900.00
+75%       12200.00
+max      119000.00
+Name: total_amount, dtype: float64
+
+--- Rental duration (days) summary statistics ---
+count    5358.00
+mean        3.81
+std         2.93
+min         0.00
+25%         2.00
+50%         3.00
+75%         5.00
+max        18.00
+Name: rental_days, dtype: float64
+
+--- Rentals by vehicle category ---
+category_name
+Sedan        1709
+Suv          1348
+Hatchback    1244
+Luxury        452
+Van           318
+Electric      287
+Name: count, dtype: int64
+
+--- Rentals by membership type ---
+membership_type
+Regular     2156
+Silver      1736
+Gold        1035
+Platinum     431
+Name: count, dtype: int64
+
+--- Late return rate overall ---
+17.81% of completed rentals were returned late
+
+--- Vehicle fleet: status breakdown ---
+status
+Available            101
+Rented                62
+Under Maintenance      9
+Retired                8
+Name: count, dtype: int64
+
+--- Vehicle fleet: category breakdown ---
+category_name
+Sedan        59
+Suv          45
+Hatchback    41
+Luxury       14
+Van          11
+Electric     10
+Name: count, dtype: int64
+
+--- Customer age distribution ---
+count    900.0
+mean      43.1
+std       12.7
+min       21.0
+25%       32.0
+50%       43.0
+75%       54.0
+max       65.0
+Name: age, dtype: float64
+
+--- Customer age group counts ---
+age_group
+46-60    310
+31-45    299
+21-30    194
+60+       97
+Name: count, dtype: int64
+
+--- Payment status breakdown ---
+payment_status
+Success     4818
+Failed       249
+Refunded     173
+Pending      118
+Name: count, dtype: int64
+
+--- Payment method breakdown ---
+payment_method
+Upi            1723
+Credit Card    1630
+Debit Card     1142
+Net Banking     556
+Cash            307
+Name: count, dtype: int64
+
+--- Maintenance type breakdown ---
+maintenance_type
+Routine Service     192
+Repair               92
+Tire Change          85
+Battery/Electric     47
+Accident Repair      34
+Name: count, dtype: int64
+
+--- Maintenance cost summary statistics ---
+count      450.00
+mean      8378.53
+std      10349.65
+min       1508.72
+25%       2870.18
+50%       4223.04
+75%       9852.58
+max      59095.19
+Name: cost, dtype: float64
+
+--- Correlation: rental_days vs total_amount ---
+Correlation coefficient: 0.661

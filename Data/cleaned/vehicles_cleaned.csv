@@ -1,0 +1,181 @@
+vehicle_id,make,model,category_id,manufacture_year,fuel_type,transmission,seating_capacity,daily_rate,odometer_km,purchase_date,home_location_id,status,category_name,location_id,location_name,city,state,region
+1,Hyundai,Creta,3,2020,Diesel,Automatic,5,3000.0,93696,2020-12-04,9,Available,Suv,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+2,Honda,City,2,2023,Petrol,Manual,5,2000.0,31062,2023-01-18,9,Available,Sedan,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+3,Hyundai,Verna,2,2025,Petrol,Automatic,5,1800.0,60392,2025-03-23,6,Available,Sedan,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+4,Hyundai,i10,1,2021,Petrol,Manual,5,1450.0,39671,2021-06-20,1,Rented,Hatchback,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+5,Toyota,Fortuner,3,2024,Diesel,Manual,5,3050.0,52400,2024-10-28,10,Available,Suv,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+6,Tata,Tiago,1,2019,Petrol,Manual,5,1350.0,18238,2019-04-28,7,Available,Hatchback,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+7,Mahindra,XUV700,3,2024,Diesel,Manual,5,3150.0,94593,2024-05-23,2,Rented,Suv,2,Udaipur City Branch,Udaipur,Rajasthan,North
+8,Tata,Tiago,1,2021,Petrol,Manual,5,1500.0,78000,2021-11-23,4,Rented,Hatchback,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+9,BMW,5 Series,4,2021,Petrol,Manual,5,5650.0,13675,2021-07-09,4,Under Maintenance,Luxury,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+10,Mahindra,XUV700,3,2024,Diesel,Manual,5,3400.0,39718,2024-08-05,3,Available,Suv,3,Delhi Airport Branch,New Delhi,Delhi,North
+11,Mahindra,XUV700,3,2023,Diesel,Automatic,5,3300.0,33746,2023-07-12,3,Available,Suv,3,Delhi Airport Branch,New Delhi,Delhi,North
+12,Maruti Suzuki,Swift,1,2020,Petrol,Automatic,5,1300.0,83172,2020-11-14,2,Available,Hatchback,2,Udaipur City Branch,Udaipur,Rajasthan,North
+13,Toyota,Fortuner,3,2025,Diesel,Manual,5,4150.0,20014,2025-01-22,9,Rented,Suv,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+14,Mahindra,XUV700,3,2022,Diesel,Manual,5,3300.0,39522,2022-01-24,9,Rented,Suv,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+15,Honda,City,2,2024,Petrol,Automatic,5,2050.0,31071,2024-09-20,3,Available,Sedan,3,Delhi Airport Branch,New Delhi,Delhi,North
+16,Tata,Tiago,1,2022,Petrol,Automatic,5,1550.0,52576,2022-01-04,5,Available,Hatchback,5,Pune Station Branch,Pune,Maharashtra,West
+17,Tata,Tiago,1,2022,Petrol,Automatic,5,1250.0,74822,2022-02-25,3,Available,Hatchback,3,Delhi Airport Branch,New Delhi,Delhi,North
+18,Skoda,Slavia,2,2023,Petrol,Manual,5,2200.0,75686,2023-07-07,4,Rented,Sedan,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+19,Skoda,Slavia,2,2023,Petrol,Automatic,5,2150.0,37493,2023-08-04,4,Available,Sedan,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+20,Tata,Tiago,1,2019,Petrol,Manual,5,1350.0,12716,2019-12-21,4,Available,Hatchback,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+21,Hyundai,i10,1,2024,Petrol,Manual,5,1350.0,75678,2024-08-07,3,Rented,Hatchback,3,Delhi Airport Branch,New Delhi,Delhi,North
+22,Maruti Suzuki,Ertiga,5,2020,Diesel,Manual,8,4200.0,91374,2020-02-04,7,Available,Van,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+23,Skoda,Slavia,2,2024,Petrol,Manual,5,2300.0,57772,2024-02-02,6,Rented,Sedan,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+24,Maruti Suzuki,Swift,1,2022,Petrol,Manual,5,1450.0,65637,2022-03-09,4,Under Maintenance,Hatchback,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+25,Tata,Tiago,1,2023,Petrol,Manual,5,1600.0,35982,2023-01-03,3,Available,Hatchback,3,Delhi Airport Branch,New Delhi,Delhi,North
+26,Hyundai,Verna,2,2019,Petrol,Automatic,5,1950.0,64638,2019-07-09,5,Available,Sedan,5,Pune Station Branch,Pune,Maharashtra,West
+27,Hyundai,Kona Electric,6,2020,Electric,Automatic,5,3400.0,12665,2020-05-07,10,Rented,Electric,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+28,Hyundai,i10,1,2023,Petrol,Manual,5,1550.0,12455,2023-09-06,9,Available,Hatchback,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+29,Tata,Tiago,1,2022,Petrol,Manual,5,1700.0,37271,2022-02-19,10,Rented,Hatchback,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+30,Toyota,Fortuner,3,2021,Diesel,Automatic,5,3500.0,92782,2021-05-07,6,Available,Suv,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+31,Skoda,Slavia,2,2025,Petrol,Automatic,5,2150.0,65068,2025-02-01,10,Retired,Sedan,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+32,Tata,Nexon EV,6,2020,Electric,Manual,5,3400.0,37018,2020-06-03,6,Available,Electric,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+33,Skoda,Slavia,2,2025,Petrol,Automatic,5,2300.0,6025,2025-11-17,9,Available,Sedan,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+34,Kia,Seltos,3,2024,Diesel,Manual,5,4000.0,40697,2024-09-05,5,Rented,Suv,5,Pune Station Branch,Pune,Maharashtra,West
+35,Kia,Seltos,3,2023,Diesel,Automatic,5,3950.0,11658,2023-08-09,2,Rented,Suv,2,Udaipur City Branch,Udaipur,Rajasthan,North
+36,BMW,5 Series,4,2024,Petrol,Manual,5,8600.0,62912,2024-05-06,9,Rented,Luxury,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+37,Hyundai,Creta,3,2020,Diesel,Manual,5,4000.0,53393,2020-09-02,10,Rented,Suv,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+38,Honda,City,2,2025,Petrol,Manual,5,2500.0,32535,2025-01-12,4,Rented,Sedan,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+39,Skoda,Slavia,2,2023,Petrol,Automatic,5,2150.0,36029,2023-12-05,3,Retired,Sedan,3,Delhi Airport Branch,New Delhi,Delhi,North
+40,Mercedes-Benz,E-Class,4,2021,Petrol,Manual,5,8450.0,92806,2021-07-26,4,Available,Luxury,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+41,BMW,5 Series,4,2022,Petrol,Manual,5,5650.0,65332,2022-04-07,6,Available,Luxury,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+42,BMW,5 Series,4,2022,Petrol,Manual,5,8150.0,14099,2022-06-09,5,Available,Luxury,5,Pune Station Branch,Pune,Maharashtra,West
+43,Skoda,Slavia,2,2019,Petrol,Automatic,5,2250.0,28405,2019-02-09,10,Retired,Sedan,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+44,Maruti Suzuki,Swift,1,2025,Petrol,Automatic,5,1400.0,84457,2025-06-14,9,Available,Hatchback,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+45,Toyota,Innova Crysta,5,2025,Diesel,Manual,8,3000.0,92900,2025-09-22,4,Available,Van,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+46,Tata,Tiago,1,2024,Petrol,Automatic,5,1550.0,44363,2024-02-24,9,Available,Hatchback,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+47,Hyundai,Verna,2,2020,Petrol,Automatic,5,2250.0,54695,2020-07-22,3,Rented,Sedan,3,Delhi Airport Branch,New Delhi,Delhi,North
+48,Skoda,Slavia,2,2020,Petrol,Automatic,5,2050.0,81019,2020-07-26,10,Rented,Sedan,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+49,Hyundai,Verna,2,2025,Petrol,Automatic,5,2200.0,91356,2025-12-06,2,Available,Sedan,2,Udaipur City Branch,Udaipur,Rajasthan,North
+50,Mahindra,XUV700,3,2020,Diesel,Manual,5,4100.0,34444,2020-11-10,4,Available,Suv,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+51,Hyundai,i10,1,2022,Petrol,Automatic,5,1650.0,80454,2022-07-21,4,Rented,Hatchback,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+52,Hyundai,Verna,2,2019,Petrol,Manual,5,2300.0,60724,2019-02-25,4,Available,Sedan,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+53,Hyundai,Kona Electric,6,2025,Electric,Manual,5,3450.0,22477,2025-02-15,8,Rented,Electric,8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+54,Hyundai,Kona Electric,6,2022,Electric,Manual,5,3700.0,71162,2022-10-27,7,Rented,Electric,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+55,Kia,Seltos,3,2021,Diesel,Automatic,5,3350.0,88579,2021-04-27,5,Rented,Suv,5,Pune Station Branch,Pune,Maharashtra,West
+56,Kia,Seltos,3,2021,Diesel,Manual,5,2700.0,49020,2021-04-09,6,Under Maintenance,Suv,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+57,Maruti Suzuki,Swift,1,2024,Petrol,Manual,5,1600.0,59377,2024-04-03,7,Available,Hatchback,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+58,Honda,City,2,2025,Petrol,Manual,5,2150.0,7560,2025-10-23,10,Available,Sedan,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+59,Hyundai,i10,1,2025,Petrol,Manual,5,1450.0,76582,2025-07-18,10,Under Maintenance,Hatchback,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+60,Hyundai,Verna,2,2021,Petrol,Manual,5,1800.0,57994,2021-11-22,3,Rented,Sedan,3,Delhi Airport Branch,New Delhi,Delhi,North
+61,Toyota,Innova Crysta,5,2022,Diesel,Automatic,7,3150.0,65515,2022-03-28,3,Available,Van,3,Delhi Airport Branch,New Delhi,Delhi,North
+62,Honda,City,2,2022,Petrol,Manual,5,2050.0,60255,2022-05-25,5,Rented,Sedan,5,Pune Station Branch,Pune,Maharashtra,West
+63,Skoda,Slavia,2,2021,Petrol,Manual,5,2600.0,13993,2021-04-21,1,Rented,Sedan,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+64,Tata,Nexon EV,6,2020,Electric,Automatic,5,3550.0,92747,2020-03-16,2,Rented,Electric,2,Udaipur City Branch,Udaipur,Rajasthan,North
+65,Tata,Tiago,1,2023,Petrol,Manual,5,1400.0,20012,2023-10-24,3,Retired,Hatchback,3,Delhi Airport Branch,New Delhi,Delhi,North
+66,Maruti Suzuki,Swift,1,2022,Petrol,Automatic,5,1550.0,30995,2022-07-23,2,Rented,Hatchback,2,Udaipur City Branch,Udaipur,Rajasthan,North
+67,BMW,5 Series,4,2025,Petrol,Manual,5,8600.0,20866,2025-11-20,10,Rented,Luxury,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+68,Hyundai,Verna,2,2024,Petrol,Automatic,5,1850.0,60057,2024-06-01,8,Available,Sedan,8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+69,Hyundai,Kona Electric,6,2020,Electric,Automatic,5,3350.0,73386,2020-07-06,5,Rented,Electric,5,Pune Station Branch,Pune,Maharashtra,West
+70,Maruti Suzuki,Ertiga,5,2020,Diesel,Manual,8,3500.0,64087,2020-02-09,4,Rented,Van,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+71,Toyota,Fortuner,3,2021,Diesel,Manual,5,3400.0,32802,2021-03-16,6,Rented,Suv,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+72,Skoda,Slavia,2,2019,Petrol,Automatic,5,2000.0,16221,2019-09-07,4,Rented,Sedan,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+73,Honda,City,2,2022,Petrol,Automatic,5,2300.0,7260,2022-08-26,2,Available,Sedan,2,Udaipur City Branch,Udaipur,Rajasthan,North
+74,Honda,City,2,2022,Petrol,Manual,5,2250.0,50056,2022-09-17,7,Retired,Sedan,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+75,Mahindra,XUV700,3,2021,Diesel,Automatic,5,3050.0,30242,2021-04-04,6,Available,Suv,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+76,Kia,Seltos,3,2021,Diesel,Manual,5,3800.0,73765,2021-12-19,10,Available,Suv,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+77,Maruti Suzuki,Swift,1,2021,Petrol,Manual,5,1400.0,75010,2021-01-23,3,Available,Hatchback,3,Delhi Airport Branch,New Delhi,Delhi,North
+78,Hyundai,Kona Electric,6,2024,Electric,Manual,5,3950.0,6607,2024-08-04,10,Available,Electric,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+79,Hyundai,Verna,2,2025,Petrol,Manual,5,1850.0,13564,2025-08-04,7,Available,Sedan,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+80,Hyundai,Creta,3,2021,Diesel,Manual,5,3900.0,20525,2021-02-08,9,Rented,Suv,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+81,Kia,Seltos,3,2022,Diesel,Automatic,5,3200.0,82139,2022-05-28,7,Available,Suv,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+82,Hyundai,Creta,3,2020,Diesel,Automatic,5,2950.0,15641,2020-05-22,3,Available,Suv,3,Delhi Airport Branch,New Delhi,Delhi,North
+83,Kia,Seltos,3,2023,Diesel,Manual,5,3300.0,9278,2023-08-10,4,Available,Suv,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+84,Hyundai,Verna,2,2021,Petrol,Manual,5,2000.0,91662,2021-11-19,4,Available,Sedan,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+85,Kia,Seltos,3,2019,Diesel,Automatic,5,3900.0,45319,2019-01-06,10,Rented,Suv,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+86,Mahindra,XUV700,3,2021,Diesel,Manual,5,3350.0,40683,2021-12-13,9,Available,Suv,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+87,Skoda,Slavia,2,2021,Petrol,Manual,5,2150.0,8390,2021-10-09,2,Available,Sedan,2,Udaipur City Branch,Udaipur,Rajasthan,North
+88,Hyundai,Creta,3,2021,Diesel,Automatic,5,3700.0,27962,2021-10-02,8,Available,Suv,8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+89,Hyundai,Verna,2,2024,Petrol,Manual,5,2250.0,66605,2024-08-03,6,Available,Sedan,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+90,Honda,City,2,2024,Petrol,Automatic,5,2050.0,91846,2024-08-10,7,Rented,Sedan,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+91,Toyota,Fortuner,3,2019,Diesel,Manual,5,3000.0,72449,2019-07-28,1,Rented,Suv,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+92,Toyota,Fortuner,3,2023,Diesel,Manual,5,3450.0,62939,2023-08-21,1,Available,Suv,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+93,Mahindra,XUV700,3,2019,Diesel,Manual,5,3700.0,84806,2019-01-21,4,Rented,Suv,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+94,Honda,City,2,2025,Petrol,Automatic,5,1850.0,20396,2025-02-15,3,Available,Sedan,3,Delhi Airport Branch,New Delhi,Delhi,North
+95,Mahindra,XUV700,3,2022,Diesel,Manual,5,3350.0,77255,2022-04-15,3,Available,Suv,3,Delhi Airport Branch,New Delhi,Delhi,North
+96,Toyota,Innova Crysta,5,2025,Diesel,Automatic,8,4150.0,71550,2025-07-11,5,Rented,Van,5,Pune Station Branch,Pune,Maharashtra,West
+97,Hyundai,Verna,2,2024,Petrol,Automatic,5,2250.0,24476,2024-08-28,8,Available,Sedan,8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+98,Skoda,Slavia,2,2021,Petrol,Automatic,5,2100.0,36300,2021-04-23,10,Available,Sedan,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+99,Mercedes-Benz,E-Class,4,2024,Petrol,Manual,5,8500.0,91991,2024-07-13,3,Available,Luxury,3,Delhi Airport Branch,New Delhi,Delhi,North
+100,Tata,Tiago,1,2019,Petrol,Automatic,5,1400.0,73937,2019-08-04,8,Available,Hatchback,8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+101,Tata,Tiago,1,2025,Petrol,Automatic,5,1250.0,86691,2025-05-11,7,Rented,Hatchback,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+102,Audi,A6,4,2021,Petrol,Automatic,5,7000.0,68956,2021-11-23,9,Available,Luxury,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+103,Tata,Tiago,1,2020,Petrol,Automatic,5,1350.0,61881,2020-12-03,2,Rented,Hatchback,2,Udaipur City Branch,Udaipur,Rajasthan,North
+104,Hyundai,Creta,3,2019,Diesel,Manual,5,3700.0,12355,2019-01-11,5,Available,Suv,5,Pune Station Branch,Pune,Maharashtra,West
+105,Honda,City,2,2025,Petrol,Manual,5,2250.0,27946,2025-03-06,2,Rented,Sedan,2,Udaipur City Branch,Udaipur,Rajasthan,North
+106,Skoda,Slavia,2,2020,Petrol,Manual,5,2550.0,88611,2020-04-15,5,Available,Sedan,5,Pune Station Branch,Pune,Maharashtra,West
+107,Toyota,Fortuner,3,2020,Diesel,Automatic,5,3700.0,50293,2020-02-15,10,Available,Suv,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+108,Hyundai,Kona Electric,6,2020,Electric,Manual,5,3800.0,68335,2020-07-28,2,Available,Electric,2,Udaipur City Branch,Udaipur,Rajasthan,North
+109,Mahindra,XUV700,3,2025,Diesel,Automatic,5,3050.0,40976,2025-11-13,1,Rented,Suv,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+110,Hyundai,Creta,3,2025,Diesel,Automatic,5,3800.0,35162,2025-05-25,10,Rented,Suv,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+111,Maruti Suzuki,Swift,1,2024,Petrol,Automatic,5,1600.0,22927,2024-11-22,2,Under Maintenance,Hatchback,2,Udaipur City Branch,Udaipur,Rajasthan,North
+112,Mahindra,XUV700,3,2021,Diesel,Automatic,5,2650.0,16813,2021-12-05,5,Available,Suv,5,Pune Station Branch,Pune,Maharashtra,West
+113,Honda,City,2,2021,Petrol,Manual,5,2250.0,40720,2021-09-17,3,Available,Sedan,3,Delhi Airport Branch,New Delhi,Delhi,North
+114,Mercedes-Benz,E-Class,4,2025,Petrol,Automatic,5,6700.0,20095,2025-06-26,8,Retired,Luxury,8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+115,Maruti Suzuki,Swift,1,2022,Petrol,Automatic,5,1650.0,16836,2022-09-12,7,Available,Hatchback,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+116,Toyota,Fortuner,3,2021,Diesel,Manual,5,3800.0,88695,2021-10-13,6,Available,Suv,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+117,Maruti Suzuki,Swift,1,2021,Petrol,Automatic,5,1750.0,89889,2021-10-08,2,Rented,Hatchback,2,Udaipur City Branch,Udaipur,Rajasthan,North
+118,Skoda,Slavia,2,2020,Petrol,Manual,5,2150.0,44893,2020-01-02,8,Available,Sedan,8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+119,Tata,Tiago,1,2024,Petrol,Manual,5,1450.0,75804,2024-12-23,7,Rented,Hatchback,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+120,Toyota,Fortuner,3,2023,Diesel,Automatic,5,3950.0,9288,2023-07-09,6,Available,Suv,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+121,Honda,City,2,2024,Petrol,Automatic,5,1900.0,89518,2024-06-18,6,Available,Sedan,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+122,Maruti Suzuki,Swift,1,2019,Petrol,Automatic,5,1700.0,89109,2019-11-07,10,Retired,Hatchback,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+123,Hyundai,i10,1,2023,Petrol,Manual,5,1300.0,77641,2023-04-03,4,Rented,Hatchback,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+124,BMW,5 Series,4,2023,Petrol,Manual,5,6100.0,23964,2023-01-09,3,Available,Luxury,3,Delhi Airport Branch,New Delhi,Delhi,North
+125,BMW,5 Series,4,2019,Petrol,Automatic,5,5600.0,36186,2019-06-26,10,Available,Luxury,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+126,Maruti Suzuki,Swift,1,2019,Petrol,Manual,5,1450.0,67422,2019-12-03,8,Rented,Hatchback,8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+127,Honda,City,2,2023,Petrol,Manual,5,2000.0,91363,2023-01-24,9,Available,Sedan,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+128,Hyundai,Creta,3,2022,Diesel,Manual,5,3350.0,19150,2022-07-22,8,Rented,Suv,8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+129,Honda,City,2,2020,Petrol,Manual,5,1900.0,87978,2020-05-20,10,Available,Sedan,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+130,Skoda,Slavia,2,2023,Petrol,Manual,5,2150.0,19996,2023-07-04,9,Rented,Sedan,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+131,Hyundai,i10,1,2025,Petrol,Automatic,5,1450.0,59524,2025-08-13,2,Available,Hatchback,2,Udaipur City Branch,Udaipur,Rajasthan,North
+132,Hyundai,Verna,2,2022,Petrol,Manual,5,1900.0,16188,2022-02-03,2,Available,Sedan,2,Udaipur City Branch,Udaipur,Rajasthan,North
+133,Mahindra,XUV700,3,2023,Diesel,Automatic,5,3500.0,48207,2023-09-18,2,Available,Suv,2,Udaipur City Branch,Udaipur,Rajasthan,North
+134,Maruti Suzuki,Ertiga,5,2023,Diesel,Automatic,7,4450.0,18579,2023-05-12,10,Available,Van,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+135,Hyundai,i10,1,2025,Petrol,Manual,5,1250.0,20058,2025-09-12,5,Rented,Hatchback,5,Pune Station Branch,Pune,Maharashtra,West
+136,Audi,A6,4,2023,Petrol,Automatic,5,8750.0,77972,2023-11-21,1,Rented,Luxury,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+137,Mahindra,XUV700,3,2025,Diesel,Manual,5,3050.0,51009,2025-05-11,1,Available,Suv,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+138,Tata,Tiago,1,2024,Petrol,Manual,5,1300.0,74531,2024-01-03,4,Available,Hatchback,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+139,Honda,City,2,2025,Petrol,Manual,5,2400.0,16135,2025-10-20,1,Available,Sedan,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+140,Hyundai,Creta,3,2024,Diesel,Automatic,5,3050.0,84570,2024-07-16,8,Available,Suv,8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+141,Tata,Tiago,1,2021,Petrol,Manual,5,1450.0,82743,2021-11-22,8,Available,Hatchback,8,Hyderabad Hitech Branch,Hyderabad,Telangana,South
+142,Honda,City,2,2019,Petrol,Manual,5,2300.0,32686,2019-04-10,3,Rented,Sedan,3,Delhi Airport Branch,New Delhi,Delhi,North
+143,Honda,City,2,2020,Petrol,Manual,5,2400.0,74806,2020-03-13,4,Available,Sedan,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+144,Mercedes-Benz,E-Class,4,2019,Petrol,Manual,5,8950.0,65260,2019-07-01,2,Under Maintenance,Luxury,2,Udaipur City Branch,Udaipur,Rajasthan,North
+145,Toyota,Fortuner,3,2019,Diesel,Automatic,5,3250.0,47568,2019-07-01,3,Rented,Suv,3,Delhi Airport Branch,New Delhi,Delhi,North
+146,Mahindra,XUV700,3,2020,Diesel,Manual,5,3950.0,57487,2020-07-19,9,Available,Suv,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+147,Maruti Suzuki,Ertiga,5,2024,Diesel,Manual,7,3100.0,71840,2024-02-17,4,Under Maintenance,Van,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+148,Skoda,Slavia,2,2020,Petrol,Automatic,5,2300.0,24194,2020-04-04,5,Available,Sedan,5,Pune Station Branch,Pune,Maharashtra,West
+149,Hyundai,Creta,3,2022,Diesel,Manual,5,3850.0,78889,2022-08-25,10,Available,Suv,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+150,Maruti Suzuki,Ertiga,5,2019,Diesel,Automatic,8,3250.0,87756,2019-08-15,5,Rented,Van,5,Pune Station Branch,Pune,Maharashtra,West
+151,Mahindra,XUV700,3,2022,Diesel,Manual,5,3100.0,53331,2022-01-02,5,Available,Suv,5,Pune Station Branch,Pune,Maharashtra,West
+152,Toyota,Innova Crysta,5,2023,Diesel,Automatic,8,3700.0,63947,2023-12-02,10,Rented,Van,10,Lucknow Branch,Lucknow,Uttar Pradesh,North
+153,Hyundai,Verna,2,2022,Petrol,Manual,5,2550.0,50015,2022-02-26,2,Available,Sedan,2,Udaipur City Branch,Udaipur,Rajasthan,North
+154,Maruti Suzuki,Swift,1,2023,Petrol,Automatic,5,1800.0,25807,2023-09-20,6,Available,Hatchback,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+155,Hyundai,Verna,2,2019,Petrol,Automatic,5,2350.0,48863,2019-11-21,2,Available,Sedan,2,Udaipur City Branch,Udaipur,Rajasthan,North
+156,Toyota,Fortuner,3,2024,Diesel,Manual,5,3750.0,24709,2024-10-28,6,Available,Suv,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+157,Mahindra,XUV700,3,2024,Diesel,Manual,5,3650.0,82993,2024-07-05,2,Available,Suv,2,Udaipur City Branch,Udaipur,Rajasthan,North
+158,Hyundai,Verna,2,2025,Petrol,Automatic,5,2350.0,73995,2025-12-22,2,Rented,Sedan,2,Udaipur City Branch,Udaipur,Rajasthan,North
+159,Hyundai,Verna,2,2020,Petrol,Manual,5,2050.0,68736,2020-06-25,4,Available,Sedan,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+160,Maruti Suzuki,Swift,1,2023,Petrol,Manual,5,1650.0,74013,2023-09-27,1,Rented,Hatchback,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+161,Toyota,Innova Crysta,5,2025,Diesel,Automatic,7,3250.0,86885,2025-12-25,3,Rented,Van,3,Delhi Airport Branch,New Delhi,Delhi,North
+162,Hyundai,i10,1,2022,Petrol,Automatic,5,1350.0,63841,2022-10-10,4,Available,Hatchback,4,Mumbai Andheri Branch,Mumbai,Maharashtra,West
+163,Hyundai,Verna,2,2024,Petrol,Automatic,5,1950.0,65513,2024-10-15,5,Rented,Sedan,5,Pune Station Branch,Pune,Maharashtra,West
+164,Hyundai,Verna,2,2025,Petrol,Automatic,5,2450.0,37768,2025-10-05,1,Rented,Sedan,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+165,Toyota,Innova Crysta,5,2025,Diesel,Automatic,7,3450.0,63893,2025-03-09,9,Available,Van,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+166,Honda,City,2,2019,Petrol,Automatic,5,2500.0,56964,2019-07-02,9,Available,Sedan,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+167,Honda,City,2,2019,Petrol,Manual,5,1800.0,48947,2019-12-21,3,Available,Sedan,3,Delhi Airport Branch,New Delhi,Delhi,North
+168,Hyundai,Verna,2,2024,Petrol,Automatic,5,1900.0,85654,2024-08-15,1,Under Maintenance,Sedan,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+169,Maruti Suzuki,Swift,1,2024,Petrol,Automatic,5,1550.0,60476,2024-10-17,2,Rented,Hatchback,2,Udaipur City Branch,Udaipur,Rajasthan,North
+170,Maruti Suzuki,Swift,1,2025,Petrol,Manual,5,1450.0,13232,2025-10-15,2,Rented,Hatchback,2,Udaipur City Branch,Udaipur,Rajasthan,North
+171,Skoda,Slavia,2,2020,Petrol,Manual,5,2200.0,43177,2020-12-05,7,Available,Sedan,7,Chennai Central Branch,Chennai,Tamil Nadu,South
+172,Skoda,Slavia,2,2019,Petrol,Manual,5,2350.0,13870,2019-09-12,9,Available,Sedan,9,Ahmedabad Branch,Ahmedabad,Gujarat,West
+173,Audi,A6,4,2022,Petrol,Automatic,5,7050.0,55709,2022-01-21,6,Available,Luxury,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+174,Maruti Suzuki,Swift,1,2024,Petrol,Manual,5,1650.0,81271,2024-02-25,6,Available,Hatchback,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+175,Hyundai,Verna,2,2025,Petrol,Automatic,5,1950.0,67722,2025-11-15,3,Rented,Sedan,3,Delhi Airport Branch,New Delhi,Delhi,North
+176,Hyundai,i10,1,2025,Petrol,Manual,5,1300.0,46365,2025-04-02,5,Available,Hatchback,5,Pune Station Branch,Pune,Maharashtra,West
+177,Hyundai,Kona Electric,6,2024,Electric,Manual,5,2850.0,51789,2024-04-10,1,Under Maintenance,Electric,1,Jaipur Central Hub,Jaipur,Rajasthan,North
+178,Honda,City,2,2022,Petrol,Automatic,5,2150.0,55678,2022-12-15,6,Retired,Sedan,6,Bengaluru Whitefield Branch,Bengaluru,Karnataka,South
+179,Hyundai,Verna,2,2021,Petrol,Manual,5,2450.0,60640,2021-02-24,2,Available,Sedan,2,Udaipur City Branch,Udaipur,Rajasthan,North
+180,Tata,Nexon EV,6,2019,Electric,Manual,5,3200.0,43750,2019-06-22,5,Available,Electric,5,Pune Station Branch,Pune,Maharashtra,West
