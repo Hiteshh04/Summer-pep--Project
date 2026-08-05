@@ -28,7 +28,7 @@ st.set_page_config(page_title="Vehicle Rental Analytics", layout="wide", page_ic
 # ---------------------------------------------------------------------
 # DATA LOADING (cached so we don't hit MySQL on every filter change)
 # ---------------------------------------------------------------------
-@st.cache_data(show_spinner="Connecting to MySQL and loading data...")
+@st.cache_data(show_spinner="Loading CSV data...")
 def get_cleaned_data():
     raw = load_all_data()
     cleaned = full_cleaning_pipeline(raw)
@@ -36,13 +36,12 @@ def get_cleaned_data():
 
 
 st.title("🚗 Vehicle Utilization & Rental Analytics Dashboard")
-st.caption("SQL + Python end-to-end analytics project — Car Rental domain")
+st.caption("Vehicle Rental Analytics Dashboard (Offline CSV Dataset)")
 
 try:
     data = get_cleaned_data()
-except SystemExit:
-    st.error("Could not connect to MySQL. Check your .env file (DB_HOST, DB_USER, "
-             "DB_PASSWORD, DB_NAME) and confirm the MySQL server is running.")
+except Exception as e:
+    st.error(f"Error loading CSV data: {e}")
     st.stop()
 
 rentals = data["rentals"]
@@ -204,5 +203,7 @@ with tab5:
     st.dataframe(util, width='stretch')
 
 st.divider()
-st.caption("Data source: MySQL `car_rental_analytics` database · "
-           "Built with Pandas, NumPy, Matplotlib, Seaborn, and Streamlit.")
+st.caption(
+    "Data source: Offline CSV dataset · "
+    "Built with Pandas, NumPy, Matplotlib, Seaborn, and Streamlit."
+)

@@ -6,10 +6,8 @@
 # mysql-connector-python>=8.4.0
 # python-dotenv>=1.0.1
 
+streamlit
 pandas
 numpy
 matplotlib
 seaborn
-streamlit
-mysql-connector-python
-python-dotenv

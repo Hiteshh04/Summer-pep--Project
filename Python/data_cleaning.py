@@ -67,7 +67,6 @@ def clean_vehicles(df: pd.DataFrame) -> pd.DataFrame:
     df = df[df["daily_rate"] > 0]
     return df.reset_index(drop=True)
 
-
 def clean_payments(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
     df = df.drop_duplicates(subset="payment_id")
@@ -76,7 +75,6 @@ def clean_payments(df: pd.DataFrame) -> pd.DataFrame:
     df["payment_status"] = df["payment_status"].astype(str).str.strip().str.title()
     df["payment_method"] = df["payment_method"].astype(str).str.strip().str.title()
     return df.reset_index(drop=True)
-
 
 def clean_maintenance(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
