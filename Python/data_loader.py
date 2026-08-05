@@ -21,9 +21,9 @@ def load_all_data():
 
     data = {}
 
-    data["rentals"] = pd.read_csv(
+data["rentals"] = pd.read_csv(
     DATA_DIR / "rentals_cleaned.csv",
-    parse_dates=["pickup_date", "dropoff_date"]
+    parse_dates=["pickup_date", "expected_return_date", "actual_return_date"]
 )
 
 data["vehicles"] = pd.read_csv(DATA_DIR / "vehicles_cleaned.csv")
