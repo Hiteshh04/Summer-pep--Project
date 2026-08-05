@@ -21,20 +21,33 @@ def load_all_data():
 
     data = {}
 
-data["rentals"] = pd.read_csv(
-    DATA_DIR / "rentals_cleaned.csv",
-    parse_dates=["pickup_date", "expected_return_date", "actual_return_date"]
-)
+    data["rentals"] = pd.read_csv(
+        DATA_DIR / "rentals_cleaned.csv",
+        parse_dates=["pickup_date", "expected_return_date", "actual_return_date"]
+    )
 
-data["vehicles"] = pd.read_csv(DATA_DIR / "vehicles_cleaned.csv")
+    data["vehicles"] = pd.read_csv(
+        DATA_DIR / "vehicles_cleaned.csv"
+    )
 
-data["customers"] = pd.read_csv(DATA_DIR / "customers_cleaned.csv")
+    data["customers"] = pd.read_csv(
+        DATA_DIR / "customers_cleaned.csv"
+    )
 
-data["payments"] = pd.read_csv(DATA_DIR / "payments_cleaned.csv")
+    data["payments"] = pd.read_csv(
+        DATA_DIR / "payments_cleaned.csv"
+    )
 
-data["maintenance"] = pd.read_csv(DATA_DIR / "maintenance_cleaned.csv")
+    data["maintenance"] = pd.read_csv(
+        DATA_DIR / "maintenance_cleaned.csv"
+    )
 
-data["locations"] = pd.read_csv(DATA_DIR / "locations_cleaned.csv")
+    data["locations"] = pd.read_csv(
+        DATA_DIR / "locations_cleaned.csv"
+    )
+
+    return data
+
 
 if __name__ == "__main__":
     all_data = load_all_data()
